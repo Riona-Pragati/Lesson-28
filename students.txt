@@ -1,0 +1,12 @@
+Name: Aditi
+Intro: Loves painting
+Favorite Subject: Art
+
+Name: Rohan
+Intro: Enjoys football
+Favorite Subject: Math
+
+
+Name: Sara
+Intro: Book lover
+Favorite Subject: English
